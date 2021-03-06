@@ -32,6 +32,7 @@ We went through many iterations before we found the sweet spot. The animation be
 <video  style="margin: 20px auto 20px; display: block;" width="800" autoplay controls loop="loop" preload>
     <source src="imgs/CogniFlyEvolution.mp4" type="video/mp4" />
 </video>
+
 ## Useful links
 - [YAMSPy](https://github.com/thecognifly/YAMSPy)
 - [CogniFly-STL](https://github.com/thecognifly/CogniFly-STL)
