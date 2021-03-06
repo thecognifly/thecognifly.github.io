@@ -23,7 +23,7 @@ As the project progressed, we rapidly faced the fact that experimental drones cr
 
 Nature probably had these problems during its evolutional design process. Bees are a cool example of nature's design choices. YouTube is full of videos where [bees crash land](https://www.youtube.com/watch?v=A4mcsi_DHKA) or simply [hit each other while they are flying](https://youtu.be/mZhwK_y3a2Y?t=23) clearly without dying or breaking anything. We definitely are not the first ones to take notice of [bees funny flying behaviours](https://spectrum.ieee.org/automaton/robotics/drones/the-secret-to-small-drone-obstacle-avoidance-is-to-just-crash-into-stuff) and, to be fair, the whole idea of being somehow soft while crashing [seens to come from the 30's](https://en.wikipedia.org/wiki/Crumple_zone#Early_development_history). However, one stricking difference between what bees do and crumple zones is that bees come out intact from the incidents while crumple zones dissipate the energy by destroying themselves.
 
-Our current design mixes soft and hard materials thus making CogniFly a drone capable of stunts that are quite unique while keeping its total weight just under 250g. Below is depicted the latest build with motion capture markers attached to it.
+Our current design mixes soft and hard materials thus making CogniFly a drone capable of stunts that are quite unique while keeping its total weight just under 250g. Below is depicted our latest version:
 
 <img src="imgs/CogniFly.jpg" width="902px" height="800px"  style="margin: 20px auto 20px; display: block;" alt="CogniFly"/>
 
