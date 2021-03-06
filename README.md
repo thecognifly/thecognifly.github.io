@@ -27,9 +27,11 @@ Our current design mixes soft and hard materials thus making CogniFly a drone ca
 
 <img src="imgs/CogniFly.jpg" width="902px" height="800px"  style="margin: 20px auto 20px; display: block;" alt="CogniFly"/>
 
-<!-- ## Design evolution, or lessons learned
-We went through many iterations before we found the sweet spot. The animation below shows since the very first design until the latest one using 3D printed flexible net: 
-<img src="imgs/CogniFlyEvolution.gif" width="800px" height="600px" style="margin: 20px auto 20px; display: block;" alt="Precision Agriculture with CogniFly"/> -->
+## Design evolution, or lessons learned
+We went through many iterations before we found the sweet spot. The animation below shows since the very first design until the latest one using 3D printed flexible nets: 
+<video  style="margin: 20px auto 20px; display: block;" width="800" autoplay controls loop="loop" preload>
+    <source src="imgs/CogniFlyEvolution.mp4" type="video/mp4" />
+</video>
 ## Useful links
 - [YAMSPy](https://github.com/thecognifly/YAMSPy)
 - [CogniFly-STL](https://github.com/thecognifly/CogniFly-STL)
