@@ -42,6 +42,7 @@ We went through many iterations before we found the sweet spot. The animation be
 - [iNav Fork customized for CogniFly](https://github.com/thecognifly/inav/tree/CogniFly)
 - [How to train your own object detector using the AIY Vision Kit](https://github.com/thecognifly/AIY-Vision-Kit-Utils)
 - [How to use docker to speed up compilation for the RPI Zero](https://ricardodeazambuja.com/rpi/2020/12/29/rpi2docker/)
+
 ## Publications
 Soon!
 
