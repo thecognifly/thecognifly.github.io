@@ -1,5 +1,5 @@
 # The CogniFly Project
-<img src="imgs/header.png" width="700px" height="400px" style="margin: 20px auto 20px; display: block;" alt="CogniFly Logo"/>
+<img src="imgs/header.png" width="80%" style="margin: 20px auto 20px; display: block;" alt="CogniFly Logo"/>
 
 Welcome to the main website for [The CogniFly Project](https://github.com/thecognifly)! 
 
@@ -8,7 +8,7 @@ Here we are building [open-source](LICENSE) autonomous flying robots that are ro
 ## Why did we decide to create yet another drone design?
 It all started when the then [MISTLab](http://mistlab.ca/) postdoctoral researcher, [Ricardo de Azambuja](https://github.com/ricardodeazambuja), was awarded with the prestigious [IVADO.ca (postdoctoral scholarship 2019/2020)](https://ivado.ca/en/ivado-scholarships/postdoctoral-scholarships/) for the project ["High Fidelity Data Collection for Precision Agriculture with Drone Swarms"](https://ricardodeazambuja.com/projects/razambuja_ivado2019/). That project was originally planning to employ *off-the-shelf* drones, more precisely the [DJI Tello](https://store.dji.com/product/tello) with the hope it would be possible to customize it and control a swarm using [Buzz](https://github.com/MISTLab/Buzz). However, as soon as the project started, it became clear we wanted a drone capable to be as autonomous as possible running Buzz internally, therefore, a drone that needed to be hooked to a laptop was not what we were aiming for. By the time the project started (March 2019), regulations in Canada would put harsh restrictions on drones above 250g. Moreover, we wanted an *AI* drone capable to run deep neural models (e.g. object detection) on-board because that was a main part of our initial proposal. Another reason to jump into the design of a totally new [UAV](https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle) was our dream of having an open-source design, under 250g that could be easily repaired or customized with a battery holder that would allow the battery to be automatically swapped. 
 
-<img src="imgs/CogniFlyField.png" width="800px" height="600px" style="margin: 20px auto 20px; display: block;" alt="Precision Agriculture with CogniFly"/>
+<img src="imgs/CogniFlyField.png" width="80%" style="margin: 20px auto 20px; display: block;" alt="Precision Agriculture with CogniFly"/>
 
 ## The CogniFly
 CogniFly is based on small, lightweight off-the-shelf flight controllers (FC) that became very popular (and cheap!) thanks to the FPV drone community (and some massive hardware cloning). A FC is mainly responsible to keep the drone stable by calculating motor speed commands based on the data received from sensors like the [IMU](https://en.wikipedia.org/wiki/Inertial_measurement_unit). Those commands, in the case of a [quadcopter](https://en.wikipedia.org/wiki/Quadcopter), go straight to the [ESC](https://en.wikipedia.org/wiki/Electronic_speed_control) that converts them into something that actually makes the [motors spin accordingly](https://en.wikipedia.org/wiki/Quadcopter#Flight_dynamics). Some FCs (actually just by changing the firmware) are capable of following certain paths (waypoints) if they have an external positioning sensor (e.g. a [GPS](https://en.wikipedia.org/wiki/Global_Positioning_System)). However, a FC alone can not do much more than that and an external pilot needs to take a lot of decisions and send commands to the FC typically from a joystick-like device that transmits the commands commonly through radio signals. The external pilot doesn't need to be a human being and, in fact, it doesn't need to send commands through radio signals either (it could be through a cable). CogniFly uses a single-board computer (SBC), in this case a [Raspberry Pi (RPI) Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/), that pretends to be the external pilot. 
@@ -25,11 +25,11 @@ Nature probably had these problems during its evolutional design process. Bees a
 
 Our current design mixes soft and hard materials thus making CogniFly a drone capable of stunts that are quite unique while keeping its total weight just under 250g. Below is depicted our latest version:
 
-<img src="imgs/CogniFly.jpg" width="902px" height="800px"  style="margin: 20px auto 20px; display: block;" alt="CogniFly"/>
+<img src="imgs/CogniFly.jpg" width="80%" style="margin: 20px auto 20px; display: block;" alt="CogniFly"/>
 
 ## Design evolution, or lessons learned
 We went through many iterations before we found the sweet spot. The animation below shows since the very first design until the latest one using 3D printed flexible nets: 
-<video  style="margin: 20px auto 20px; display: block;" width="800" autoplay controls loop="loop" preload>
+<video  style="margin: 20px auto 20px; display: block;" width="80%" autoplay controls loop="loop" preload>
     <source src="imgs/CogniFlyEvolution.mp4" type="video/mp4" />
 </video>
 
