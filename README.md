@@ -28,7 +28,7 @@ Our current design mixes soft and hard materials thus making CogniFly a drone ca
 <img src="imgs/CogniFly.jpg" width="80%" style="margin: 20px auto 20px; display: block;" alt="CogniFly"/>
 
 ## Video teaser:
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Y_Z54x4MjoE" style="margin: 20px auto 20px; display: block;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://youtu.be/Y_Z54x4MjoE"><img src="imgs/vlcsnap-2021-03-07-11h32m09s375.png" width="80%" style="margin: 20px auto 20px; display: block;" alt="CogniFly Video Teaser"/></a>
 
 ## Design evolution, or lessons learned
 We went through many iterations before we found the sweet spot. The animation below shows since the very first design until the latest one using 3D printed flexible nets: 
