@@ -43,7 +43,7 @@ We went through many iterations before we found the sweet spot. The animation be
 
 
 ## Publications
-- Soon!
+- [de Azambuja, R., Fouad, H., & Beltrame, G. (2021). When Being Soft Makes You Tough: A Collision Resilient Quadcopter Inspired by Arthropod Exoskeletons. arXiv preprint arXiv:2103.04423.](https://arxiv.org/abs/2103.04423)
 
 
 ## Acknowledgements
