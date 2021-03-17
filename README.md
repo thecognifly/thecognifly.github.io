@@ -1,5 +1,5 @@
 # The CogniFly Project
-<img src="imgs/header.png" width="80%" style="margin: 20px auto 20px; display: block;" alt="CogniFly Logo"/>
+<img src="imgs/header.png" width="100%" style="margin: 20px auto 20px; display: block;" alt="CogniFly Logo"/>
 
 Welcome to the main website for [The CogniFly Project](https://github.com/thecognifly)! 
 
@@ -27,10 +27,22 @@ Our current design mixes soft and hard materials thus making CogniFly a drone ca
 
 <img src="imgs/CogniFly.jpg" width="80%" style="margin: 20px auto 20px; display: block;" alt="CogniFly"/>
 
-## [Video teaser](https://youtu.be/Y_Z54x4MjoE):
+## Collision Resilient
+<img src="imgs/cognifly_small.gif" width="80%" style="margin: 20px auto 20px; display: block;" alt="CogniFly Table Crash"/>
+
+## Raspberry Pi Zero W and AI *on-the-fly*
+<img src="imgs/ai_on-the-fly.jpg" width="80%" style="margin: 20px auto 20px; display: block;" alt="AI On-The-Fly"/>
+
+## Designed for Automatic Battery Swapping
+<img src="imgs/swap_small.gif" width="80%" style="margin: 20px auto 20px; display: block;" alt="CogniFly Battery Swapping"/>
+
+<img src="imgs/Battery_Sliding_Perspective.gif" width="80%" style="margin: 20px auto 20px; display: block;" alt="CogniFly Battery Slide"/>
+
+## Videos!
+### [Full Video teaser](https://youtu.be/Y_Z54x4MjoE):
 <a href="https://youtu.be/Y_Z54x4MjoE"><img src="imgs/table_crash.gif" width="80%" style="margin: 20px auto 20px; display: block;" alt="CogniFly Video Teaser"/></a>
 
-## [Design evolution, or lessons learned](https://youtu.be/8DbwKIAxxqc)
+### [Design evolution, or lessons learned](https://youtu.be/8DbwKIAxxqc)
 We went through many iterations before we found the sweet spot. The slideshow below shows since the very first design until the latest one using 3D printed flexible nets: 
 <a href="https://youtu.be/8DbwKIAxxqc"><img src="imgs/vlcsnap-2021-03-07-12h10m46s022.png" width="80%" style="margin: 20px auto 20px; display: block;" alt="Slideshow CogniFly Evolution"/></a>
 
@@ -39,6 +51,7 @@ We went through many iterations before we found the sweet spot. The slideshow be
 - [CogniFly-STL: How to print / assemble the drone](https://github.com/thecognifly/CogniFly-STL)
 - [iNav Fork customized for CogniFly](https://github.com/thecognifly/inav/tree/CogniFly)
 - [How to train your own object detector using the AIY Vision Kit](https://github.com/thecognifly/AIY-Vision-Kit-Utils)
+- [Many Neural Network models available from Google AIY project](https://github.com/google/aiyprojects-raspbian/tree/aiyprojects/src/examples/vision)
 - [How to use docker to speed up compilation for the RPI Zero](https://ricardodeazambuja.com/rpi/2020/12/29/rpi2docker/)
 - [If you are curious about our logo, it's not a bee or wasp](https://en.wikipedia.org/wiki/Mallophora_bomboides)
 
