@@ -68,3 +68,16 @@ Many people from [MISTLab](http://mistlab.ca/) helped during the development of 
 Logo design by [Daniele Sinhorelli](https://danielesinhorelli.me/booksite/).
 
 This work was only possible thanks to the financial support from [IVADO.ca (postdoctoral scholarship 2019/2020)](https://ivado.ca/en/ivado-scholarships/postdoctoral-scholarships/).
+
+---
+## Media coverage (20/03/2020)
+- https://hackaday.com/2021/03/15/resilient-ai-drone-packs-it-all-in-under-250-grams/
+- https://www.hackster.io/news/creating-autonomous-flying-robots-with-the-cognifly-project-b12a0a3f9c7d
+- https://www.reddit.com/r/robotics/comments/m2yrbf/the_cognifly_project/
+- https://10-raisons.fr/le-drone-ia-resilient-regroupe-tout-en-moins-de-250-grammes/
+- https://blog.dronestagr.am/2021/03/15/resilient-ai-drone-packs-it-all-in-under-250-grams/
+- https://intofpv.com/t-the-cognifly-project
+- https://bartonspringstribune.com/resilient-ai-drone-packs-everything-in-under-250-grams/
+- https://www.facebook.com/mistlab.ca/videos/443400980279219/
+- https://www.linkedin.com/posts/gbeltrame_ai-robotics-activity-6775847096106008577-yQln
+- https://twitter.com/jumpjoe78/status/1370100314741833742
