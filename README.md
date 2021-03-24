@@ -77,6 +77,7 @@ This work was only possible thanks to the financial support from [IVADO.ca (post
 - <https://blog.dronestagr.am/2021/03/15/resilient-ai-drone-packs-it-all-in-under-250-grams/>
 - <https://intofpv.com/t-the-cognifly-project>
 - <https://bartonspringstribune.com/resilient-ai-drone-packs-everything-in-under-250-grams/>
+- <https://www.crackedconsole.com/2021/03/17/creating-autonomous-flying-robots-with-the-cognifly-project/>
 - <https://www.facebook.com/mistlab.ca/videos/443400980279219/>
 - <https://www.linkedin.com/posts/gbeltrame_ai-robotics-activity-6775847096106008577-yQln>
 - <https://twitter.com/jumpjoe78/status/1370100314741833742>
