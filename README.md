@@ -46,6 +46,8 @@ We went through many iterations before we found the sweet spot. The slideshow be
 <a href="https://youtu.be/8DbwKIAxxqc"><img src="imgs/vlcsnap-2021-03-07-12h10m46s022.png" width="80%" style="margin: 20px auto 20px; display: block;" alt="Slideshow CogniFly Evolution"/></a>
 
 ## Useful links
+- [The CogniFly Project](https://github.com/thecognifly/)
+- [cognifly-python](https://github.com/thecognifly/cognifly-python)
 - [YAMSPy](https://github.com/thecognifly/YAMSPy)
 - [CogniFly-STL: How to print / assemble the drone](https://github.com/thecognifly/CogniFly-STL)
 - [iNav Fork customized for CogniFly](https://github.com/thecognifly/inav/tree/CogniFly)
