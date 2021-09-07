@@ -69,7 +69,7 @@ Logo design by [Daniele Sinhorelli](https://danielesinhorelli.me/booksite/).
 This work was only possible thanks to the financial support from [IVADO.ca (postdoctoral scholarship 2019/2020)](https://ivado.ca/en/ivado-scholarships/postdoctoral-scholarships/).
 
 ---
-## Media coverage (20/03/2020)
+## Media coverage (20/03/2021)
 - <https://hackaday.com/2021/03/15/resilient-ai-drone-packs-it-all-in-under-250-grams/>
 - <https://www.hackster.io/news/creating-autonomous-flying-robots-with-the-cognifly-project-b12a0a3f9c7d>
 - <https://www.reddit.com/r/robotics/comments/m2yrbf/the_cognifly_project/>
