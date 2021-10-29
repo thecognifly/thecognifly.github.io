@@ -66,7 +66,7 @@ The CogniFly Project is built around many other succesful open-source projects s
 
 Many people from [MISTLab](http://mistlab.ca/) helped during the development of this project, so a big thanks goes to the whole team. 
 
-Logo design by [Daniele Sinhorelli](https://danielesinhorelli.me/booksite/).
+Logo design by [Daniele Sinhorelli](https://danielesinhorelli.me).
 
 This work was only possible thanks to the financial support from [IVADO.ca (postdoctoral scholarship 2019/2020)](https://ivado.ca/en/ivado-scholarships/postdoctoral-scholarships/).
 
