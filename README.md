@@ -26,6 +26,10 @@ Our current design mixes soft and hard materials thus making CogniFly a drone ca
 
 <img src="imgs/CogniFly.jpg" width="80%" style="margin: 20px auto 20px; display: block;" alt="CogniFly"/>
 
+And here is [CogniFly's latest iteration](https://github.com/thecognifly/CogniFly-STL/tree/master/Latest):
+<a href="https://www.youtube.com/watch?v=jgervD5KhRY"><img src="imgs/latest.jpeg" width="80%" style="margin: 20px auto 20px; display: block;" alt="CogniFly"/></a>
+
+
 ## Collision Resilient
 <img src="imgs/cognifly_small.gif" width="80%" style="margin: 20px auto 20px; display: block;" alt="CogniFly Table Crash"/>
 
@@ -62,14 +66,15 @@ We went through many iterations before we found the sweet spot. The slideshow be
 
 ## Publications
 - [de Azambuja, R., Fouad, H., & Beltrame, G. (2021). When Being Soft Makes You Tough: A Collision Resilient Quadcopter Inspired by Arthropod Exoskeletons. arXiv preprint arXiv:2103.04423.](https://arxiv.org/abs/2103.04423)
+- [H. Fouad and G. Beltrame, "Energy Autonomy for Robot Systems With Constrained Resources," in IEEE Transactions on Robotics, 2022, doi: 10.1109/TRO.2022.3175438.](https://ieeexplore.ieee.org/abstract/document/9813363)
 
 
 ## Acknowledgements
-The CogniFly Project is built around many other succesful open-source projects starting by [Linux itself](https://www.linuxfoundation.org/). Therefore, it would be impossible to cite all projects here and we apologize beforehand because we are going, for sure, forget to cite many: the flight controllers used in this project run [iNAV](https://github.com/iNavFlight/inav) or [Betaflight](https://github.com/betaflight/betaflight) (and those projects themselves only exist because there was a [MultiWii project](https://github.com/multiwii) before them). The RPI Zero W image was based on the one supplied by [Google AIY Projects](https://github.com/google/aiyprojects-raspbian). Many ideas for the code probably are from [stackoverflow](http://stackoverflow.com/) and inspiration to YAMSPy definitely came from my friend Aldo's [pyMultiWii](https://github.com/alduxvm/pyMultiWii). The [PiDrone project](https://github.com/h2r/pidrone_pkg) and [Pidrone (yup, same names!)](https://github.com/PiStuffing/Quadcopter) also gave us a lot of inspiration since they where using RPI 3 to control drones. Thanks to the wonderful [Raspiberry Pi Foundation](https://www.raspberrypi.org/) we have an affordable and small single-board computer (the Raspberry Pi Zero W). Nowadays 3D printers are only accessible to so many people because of the [RepRap project](https://reprap.org/wiki/RepRap).
+The CogniFly Project is built around many other succesful open-source projects starting by [Linux itself](https://www.linuxfoundation.org/). Therefore, it would be impossible to cite all projects here and we apologize beforehand because we are going, for sure, to forget to cite many: the flight controllers used in this project run [iNAV](https://github.com/iNavFlight/inav) or [Betaflight](https://github.com/betaflight/betaflight) (and those projects themselves only exist because there was a [MultiWii project](https://github.com/multiwii) before them). The RPI Zero W image was based on the one supplied by [Google AIY Projects](https://github.com/google/aiyprojects-raspbian). Many ideas for the code probably are from [stackoverflow](http://stackoverflow.com/) and inspiration to YAMSPy definitely came from my friend Aldo's [pyMultiWii](https://github.com/alduxvm/pyMultiWii). The [PiDrone project](https://github.com/h2r/pidrone_pkg) and [Pidrone (yup, same names!)](https://github.com/PiStuffing/Quadcopter) also gave us a lot of inspiration since they were using RPI 3 to control drones. Thanks to the wonderful [Raspiberry Pi Foundation](https://www.raspberrypi.org/) we have an affordable and small single-board computer (the Raspberry Pi Zero W). Nowadays 3D printers are only accessible to so many people because of the [RepRap project](https://reprap.org/wiki/RepRap).
 
 Many people from [MISTLab](http://mistlab.ca/) helped during the development of this project, so a big thanks goes to the whole team. 
 
-Logo design by [Daniele Sinhorelli](https://danielesinhorelli.me).
+Logo design by [Daniele Sinhorelli](http://www.danielesinhorelli.me/booksite/).
 
 This work was only possible thanks to the financial support from [IVADO.ca (postdoctoral scholarship 2019/2020)](https://ivado.ca/en/ivado-scholarships/postdoctoral-scholarships/).
 
