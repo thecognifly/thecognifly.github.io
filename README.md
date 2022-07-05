@@ -38,8 +38,11 @@ Our current design mixes soft and hard materials thus making CogniFly a drone ca
 <img src="imgs/Battery_Sliding_Perspective.gif" width="80%" style="margin: 20px auto 20px; display: block;" alt="CogniFly Battery Slide"/>
 
 ## Videos!
-### [ICRA 2022 Video teaser](https://www.youtube.com/watch?v=jgervD5KhRY):
+### [ICRA 2022 Video Teaser](https://www.youtube.com/watch?v=jgervD5KhRY):
 <a href="https://www.youtube.com/watch?v=jgervD5KhRY"><img src="imgs/table_crash.gif" width="80%" style="margin: 20px auto 20px; display: block;" alt="CogniFly Video Teaser"/></a>
+
+### [ICRA 2022 Video Presentation](https://www.youtube.com/watch?v=HAg0lfTfMrk):
+<a href="https://www.youtube.com/watch?v=HAg0lfTfMrk"><img src="imgs/ICRA 2022 Poster.jpg" width="80%" style="margin: 20px auto 20px; display: block;" alt="CogniFly Video Teaser"/></a>
 
 ### [Design evolution, or lessons learned](https://youtu.be/8DbwKIAxxqc)
 We went through many iterations before we found the sweet spot. The slideshow below shows since the very first design until the one using 3D printed flexible nets: 
