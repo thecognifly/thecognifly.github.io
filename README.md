@@ -22,7 +22,7 @@ As the project progressed, we rapidly faced the fact that experimental drones cr
 
 Nature probably had these problems during its evolutional design process. Bees are a cool example of nature's design choices. YouTube is full of videos where [bees crash land](https://www.youtube.com/watch?v=A4mcsi_DHKA) or simply [hit each other while they are flying](https://youtu.be/mZhwK_y3a2Y?t=23) clearly without dying or breaking anything. We definitely are not the first ones to take notice of [bees funny flying behaviours](https://spectrum.ieee.org/automaton/robotics/drones/the-secret-to-small-drone-obstacle-avoidance-is-to-just-crash-into-stuff) and, to be fair, the whole idea of being somehow soft while crashing [seens to come from the 30's](https://en.wikipedia.org/wiki/Crumple_zone#Early_development_history). However, one stricking difference between what bees do and crumple zones is that bees come out intact from the incidents while crumple zones dissipate the energy by destroying themselves.
 
-Our current design mixes soft and hard materials thus making CogniFly a drone capable of stunts that are quite unique while keeping its total weight just under 250g. Below is depicted our latest version:
+Our current design mixes soft and hard materials thus making CogniFly a drone capable of stunts that are quite unique while keeping its total weight just under 250g. Below is depicted the version used in the crash tests for our [ICRA 2022 paper](https://arxiv.org/abs/2103.04423):
 
 <img src="imgs/CogniFly.jpg" width="80%" style="margin: 20px auto 20px; display: block;" alt="CogniFly"/>
 
@@ -38,11 +38,11 @@ Our current design mixes soft and hard materials thus making CogniFly a drone ca
 <img src="imgs/Battery_Sliding_Perspective.gif" width="80%" style="margin: 20px auto 20px; display: block;" alt="CogniFly Battery Slide"/>
 
 ## Videos!
-### [Full Video teaser](https://youtu.be/Y_Z54x4MjoE):
-<a href="https://youtu.be/Y_Z54x4MjoE"><img src="imgs/table_crash.gif" width="80%" style="margin: 20px auto 20px; display: block;" alt="CogniFly Video Teaser"/></a>
+### [ICRA 2022 Video teaser](https://www.youtube.com/watch?v=jgervD5KhRY):
+<a href="https://www.youtube.com/watch?v=jgervD5KhRY"><img src="imgs/table_crash.gif" width="80%" style="margin: 20px auto 20px; display: block;" alt="CogniFly Video Teaser"/></a>
 
 ### [Design evolution, or lessons learned](https://youtu.be/8DbwKIAxxqc)
-We went through many iterations before we found the sweet spot. The slideshow below shows since the very first design until the latest one using 3D printed flexible nets: 
+We went through many iterations before we found the sweet spot. The slideshow below shows since the very first design until the one using 3D printed flexible nets: 
 <a href="https://youtu.be/8DbwKIAxxqc"><img src="imgs/vlcsnap-2021-03-07-12h10m46s022.png" width="80%" style="margin: 20px auto 20px; display: block;" alt="Slideshow CogniFly Evolution"/></a>
 
 ## Useful links
